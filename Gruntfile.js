@@ -51,7 +51,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-sass");
 
   grunt.registerTask("get", function () {
-    var url = "http://necolas.github.com/normalize.css/latest/normalize.css";
+    var url = "http://necolas.github.io/normalize.css/latest/normalize.css";
     var file = "tmp/normalize.expected.css";
 
     var done = this.async();
