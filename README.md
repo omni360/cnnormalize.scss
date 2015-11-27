@@ -26,15 +26,10 @@ Then, test with [Grunt][6]:
     $ grunt test
 
 
-LICENSE
--------
-
-MIT (same as Normalize.css): http://hail2u.mit-license.org/2013
-
 
 [1]: http://sass-lang.com/
 [2]: http://necolas.github.io/normalize.css/
-[3]: https://github.com/hail2u/normalize.scss/archive/master.zip
+[3]: https://github.com/omni360/cnnormalize.scss/archive/master.zip
 [4]: http://bower.io/
 [5]: http://npmjs.org/
 [6]: http://gruntjs.com/
