@@ -1,0 +1,11 @@
+{
+  "name": "cn-normalize-scss",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "node_modules",
+    "package.json",
+    "tmp"
+  ]
+}
